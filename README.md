@@ -134,5 +134,5 @@ If this project resonates or you have feedback, let's connect on [LinkedIn](http
 
 ---
 
-*Still building. But now building with a critical eye. 🎯*
+*Still building. But now building with a critical eye. 🎯
 
