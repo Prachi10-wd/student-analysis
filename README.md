@@ -130,7 +130,7 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## 📬 Connect With Me
 
-If this project resonates or you have feedback, let's connect on [LinkedIn](https://www.linkedin.com/in/prachi-ai1011/)!
+If this project resonates or you have feedback, let's connect on [LinkedIn](https://www.linkedin.com/in/prachi-g-6493b8354/)!
 
 ---
 
